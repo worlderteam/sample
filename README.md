@@ -1,3 +1,3 @@
 # sample
 
-trigger check
+trigger- check
