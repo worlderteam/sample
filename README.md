@@ -1,3 +1,3 @@
 # sample
 
-auto trigger pipeline checking 
+auto-trigger pipeline checking 
