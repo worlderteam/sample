@@ -1,2 +1,2 @@
-console.log("sample trigger")
-console.log("slack notification")
+console.log("sample trigger");
+console.log("slack notification");
