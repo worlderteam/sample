@@ -1,3 +1,3 @@
 # sample
 
-auto trigger checking
+auto-trigger checking
