@@ -1,1 +1,1 @@
-console.log("sample trigger")
+console.log("sample trigger");
