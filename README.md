@@ -1,4 +1,4 @@
 # sample
 
 auto-trigger pipeline checking 
-slack notification
+slack-notification
