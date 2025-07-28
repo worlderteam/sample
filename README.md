@@ -1,4 +1,4 @@
 # sample
 
-trigger- checking
+trigger- check
 
