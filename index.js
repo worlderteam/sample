@@ -6,3 +6,4 @@ console.log("commit id");
 console.log("branch update check");
 console.log("commit url change");
 console.log("build check");
+console.lopg("error check")
